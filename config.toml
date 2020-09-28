@@ -1,0 +1,2 @@
+[database]
+endpoint = "ydb.serverless.yandexcloud.net:2135"
